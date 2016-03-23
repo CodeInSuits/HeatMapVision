@@ -52,9 +52,8 @@ HeapMap Vision
 ## Contributors
 ### Artwork
 * **Macco**
-
 ### Contributors on GitHub
-* [Contributors](https://github.com/CodeInSuits)
+* [Jace Lu](https://github.com/CodeInSuits)
 
 ### Third party libraries
 * N/A (All original)
